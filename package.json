@@ -33,7 +33,7 @@
     "gatsby-transformer-excel": "^2.1.11",
     "gatsby-transformer-sharp": "^2.2.0",
     "material-ui-rating": "^4.1.1",
-    "node-fetch": "^2.5.0",
+    "node-fetch": "^3.1.1",
     "radiks": "^0.2.1",
     "radiks-server": "^0.1.12",
     "react": "^16.8.0",
